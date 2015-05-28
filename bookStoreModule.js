@@ -2,21 +2,19 @@
 var util = require('util');
 var data = require('./data');
 
-var emp
+var emp,books;
 
 
 
-// ################################################## GET JSON DATA ###########################################################
-
-// I separated the json from the bookStoreModule so it won't be so messy
 
 
+
+books=data.getBooks();
 emp = data.getEmployees();
 
 	
 
-// ################################################## GET JSON DATA ###########################################################
-
+//jsom data//
 
 
 exports.bestSeller = function() {

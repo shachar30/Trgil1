@@ -36,11 +36,7 @@ exports.getEmployees = function() {
 	return employees;
 }
 
-exports.getMembers= function() {
 
-
-	return members;
-}
 
 exports.getBooks = function() {
 
