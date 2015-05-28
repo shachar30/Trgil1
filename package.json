@@ -1,7 +1,7 @@
 {
   "name": "MyHw1",
   "version": "1.0.0",
-  "description": "Just Another Web Service, can find anyhelp at my /help window",
+  "description": " Web Service",
   "main": "server.js",
   "dependencies": {
     "express": "^4.12.3"

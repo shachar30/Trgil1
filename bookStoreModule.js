@@ -55,6 +55,11 @@ exports.getBookById = function(id) {
 
 	}
 
+	if(check == 1){
+
+		return books[i];
+	}
+
 }
 
 exports.getAllEmp = function() {

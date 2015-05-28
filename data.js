@@ -14,7 +14,7 @@ var employees = [
 
 var books = [
 
-    {"id":1, "name":"Game Of Thrones"}, 
+    {"id":1, "name":"vikings"}, 
     {"id":2, "name":"pulp fiction"},
     {"id":3, "name":"kill bill"},
     {"id":4, "name":"fear and loathing in las vegas"}
