@@ -57,13 +57,10 @@ exports.getBookById = function(id) {
 
 	}
 
-
+}
 
 exports.getAllEmp = function() {
 
 
 	return emp;
 }
-
-
-
